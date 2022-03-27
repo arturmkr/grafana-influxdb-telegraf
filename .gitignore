@@ -1,0 +1,5 @@
+grafana
+influxdb
+venv
+.idea
+.DS_Store
