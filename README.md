@@ -21,3 +21,6 @@ That will switch it off.
 Once you enter Grafana via `localhost:3000`, credentials are `admin/admin`. You can change that. 
 
 Notice that the compose file is mounting some local folders in order to have persisting data. Modify those according to your needs. 
+
+Based on:
+https://dev.to/rubenwap/monitor-the-behavior-of-your-python-app-by-learning-influxdb-grafana-and-telegraf-3ehg
